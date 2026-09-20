@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acb02f22c7f7e4846b04157010efef57, type: 3}
+  m_Name: WeatherDataConfig
+  m_EditorClassIdentifier: 
+  weatherData:
+  - weatherName: "\u6674"
+    uniStormWeatherIndex: 0
+  - weatherName: "\u591A\u4E91"
+    uniStormWeatherIndex: 3
+  - weatherName: "\u6674\u95F4\u591A\u4E91"
+    uniStormWeatherIndex: 1
+  - weatherName: "\u5927\u90E8\u591A\u4E91"
+    uniStormWeatherIndex: 2
+  - weatherName: "\u9634"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u9635\u96E8"
+    uniStormWeatherIndex: 14
+  - weatherName: "\u96F7\u9635\u96E8"
+    uniStormWeatherIndex: 21
+  - weatherName: "\u96F7\u9635\u96E8\u4F34\u6709\u51B0\u96F9"
+    uniStormWeatherIndex: 21
+  - weatherName: "\u5C0F\u96E8"
+    uniStormWeatherIndex: 15
+  - weatherName: "\u4E2D\u96E8"
+    uniStormWeatherIndex: 14
+  - weatherName: "\u5927\u96E8"
+    uniStormWeatherIndex: 14
+  - weatherName: "\u66B4\u96E8"
+    uniStormWeatherIndex: 13
+  - weatherName: "\u5927\u66B4\u96E8"
+    uniStormWeatherIndex: 13
+  - weatherName: "\u7279\u5927\u66B4\u96E8"
+    uniStormWeatherIndex: 13
+  - weatherName: "\u51BB\u96E8"
+    uniStormWeatherIndex: 12
+  - weatherName: "\u96E8\u5939\u96EA"
+    uniStormWeatherIndex: 19
+  - weatherName: "\u9635\u96EA"
+    uniStormWeatherIndex: 17
+  - weatherName: "\u5C0F\u96EA"
+    uniStormWeatherIndex: 19
+  - weatherName: "\u4E2D\u96EA"
+    uniStormWeatherIndex: 18
+  - weatherName: "\u5927\u96EA"
+    uniStormWeatherIndex: 17
+  - weatherName: "\u66B4\u96EA"
+    uniStormWeatherIndex: 17
+  - weatherName: "\u6D6E\u5C18"
+    uniStormWeatherIndex: 10
+  - weatherName: "\u626C\u5C18"
+    uniStormWeatherIndex: 10
+  - weatherName: "\u6C99\u5C18\u66B4"
+    uniStormWeatherIndex: 22
+  - weatherName: "\u5F3A\u6C99\u5C18\u66B4"
+    uniStormWeatherIndex: 22
+  - weatherName: "\u96FE"
+    uniStormWeatherIndex: 10
+  - weatherName: "\u973E"
+    uniStormWeatherIndex: 10
+  - weatherName: "\u98CE"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u5927\u98CE"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u98D3\u98CE"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u70ED\u5E26\u66B4\u98CE"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u9F99\u5377\u98CE"
+    uniStormWeatherIndex: 4
+  - weatherName: "\u51B7"
+    uniStormWeatherIndex: 0
+  - weatherName: "\u70ED"
+    uniStormWeatherIndex: 0
+  - weatherName: "\u672A\u77E5"
+    uniStormWeatherIndex: 0
+  - weatherName: 
+    uniStormWeatherIndex: 0
