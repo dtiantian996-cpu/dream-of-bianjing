@@ -10,6 +10,11 @@
 
 项目希望通过游戏化交互降低历史文化的学习门槛，将抽象的知识转化为可以观察、操作和体验的游戏内容，实现寓教于乐的文化传播效果。
 
+## 演示视频
+
+- [哔哩哔哩｜《梦回汴京》完整演示](【梦回汴京】 https://www.bilibili.com/video/BV1vbez6xEyK/?share_source=copy_web&vd_source=e1392d1cf8830365a35a1285d9c76b92)
+- [YouTube｜Dream of Bianjing Demo](https://youtu.be/Rk7SlyOgUEA)
+
 ## 主要功能
 
 ### 汴京场景探索
